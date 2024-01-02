@@ -1,11 +1,13 @@
-### Hi there, I'm Abdul Mueed! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=amueed&color=blue)</div>
+### Hi there, I'm Abdul Mueed! 👋
 
 #### **I'm a Software Engineer.**
+
+#### <div align = 'right'>![](https://komarev.com/ghpvc/?username=amueed&color=brightgreen&style=flat-square)</div>
 
 <hr/>
 
 <a href="https://github.com/amueed">
-  <img src="https://github-readme-stats.vercel.app/api?username=amueed&count_private=true&show_icons=true&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amueed&theme=swift&count_private=true&show_icons=true&hide=stars&border_radius=0" />
 </a>
 
 <!--
