@@ -1,8 +1,6 @@
-### Hi there, I'm Abdul Mueed! 👋
+### Hi there, I'm Abdul Mueed! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=amueed&color=brightgreen&style=flat-square)</div>
 
 #### **I'm a Software Engineer.**
-
-#### <div align = 'right'>![](https://komarev.com/ghpvc/?username=amueed&color=brightgreen&style=flat-square)</div>
 
 <hr/>
 
